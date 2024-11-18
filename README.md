@@ -14,7 +14,6 @@ A full-stack Spotify clone built with Next.js 14, React, Tailwind CSS, Supabase,
 - **Music Playback**
   - Song upload and streaming
   - Advanced audio player controls
-  - Playlist management system
   - Favorites/Liked songs functionality
   - Real-time playback updates
 
