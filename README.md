@@ -49,7 +49,6 @@ A full-stack Spotify clone built with Next.js 14, React, Tailwind CSS, Supabase,
 
 - **Authentication**
   - Google OAuth
-  - Github OAuth
 
 - **Storage**
   - Supabase Storage
